@@ -24,5 +24,9 @@ Curso de introdução à processamento de linguagem natural, Tokenização, Bag 
 ---
 
 <h3>pyspark_sistema_de_recomendacao</h3>
-Aplicando os conceitos aprendidos nos cursos anteriores da formação, utilizando os dados de músicas do Spotify para criar uma playlist de recomendações a partir da entrada de uma música e utilizando a API do spotify para pegar as capas dos álbuns e gerar uma saída customizada.
-<img src='https://github.com/NickolasCrema/imagens_readmes/blob/main/curso_pyspark/output-recomendador-musicas.PNG?raw=true'/>
+Aplicando os conceitos aprendidos nos cursos anteriores da formação, utilizando os dados de músicas do Spotify para criar um modelo que gere uma playlist de recomendações, a partir da entrada de uma música, e utilizando a API do spotify para pegar as capas dos álbuns e gerar uma saída customizada.
+<h4>Entrada</h4>
+<img src='https://github.com/NickolasCrema/imagens_readmes/blob/main/curso_pyspark/entrada.PNG?raw=true'/>
+<h4>Saída</h4>
+<img src='https://github.com/NickolasCrema/imagens_readmes/blob/main/curso_pyspark/saida.PNG?raw=true'/>
+
